@@ -7,3 +7,6 @@
 [submodule "ananke"]
 	path = ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "casper-two"]
+	path = casper-two
+	url = git@github.com:thynic/barplatoon-website.git
