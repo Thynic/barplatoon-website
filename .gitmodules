@@ -7,3 +7,6 @@
 [submodule "themes/themes/beautifulhugo"]
 	path = themes/themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "barplatoon-website"]
+	path = barplatoon-website
+	url = https://github.com/Thynic/barplatoon-website.git
