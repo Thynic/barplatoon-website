@@ -1,0 +1,65 @@
+baseurl         = "https://example.barplatoon.com"
+theme           = "casper-two"
+languageCode    = "tr-TR"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Bar Platoon"
+  subtitle    = "."
+
+  cover       = "winter-fog.jpg"
+  description = "üstün varlık"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "thynicmare"
+  fbName = "justez"
+  githubName = "thynic"
+
+  logo = "barplatoonshielded.png"
+  orgName = "Bar Platoon"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Melih Karakaya"
+  authorAvatar = "photo_2019-08-08_21-07-23.jpg"
+  authorLocation = "TR"
+  authorWebsite = "https://melihkarakaya.com"
+  authorDescription = "realist, idealist, surrealist"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Ana Sayfa"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+name = "Nedir?"
+url = "/tags/nedir?/"
+weight = 150
+
+[[menu.main]]
+  name = "Antrenman"
+  url = "/tags/antrenman/"
+  weight = 110
+
+[[menu.main]]
+  name = "Beslenme"
+  url = "/tags/beslenme/"
+  weight = 105
+
+[[menu.main]]
+  name = "Zihinsel"
+  url = "/tags/zihinsel/"
+  weight = 103
