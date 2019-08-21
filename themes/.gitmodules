@@ -1,5 +1,6 @@
 [submodule "beautifulhugo"]
 	path = beautifulhugo
+<<<<<<< HEAD
 	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "themes/hyde-hyde"]
 	path = themes/hyde-hyde
@@ -10,3 +11,15 @@
 [submodule "casper-two"]
 	path = casper-two
 	url = git@github.com:thynic/barplatoon-website.git
+=======
+	url = https://github.com/halogenica/beautifulhugo
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/themes/beautifulhugo"]
+	path = themes/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "barplatoon-website"]
+	path = barplatoon-website
+	url = https://github.com/Thynic/barplatoon-website.git
+>>>>>>> f0e67f782d88d9808a2c0cb32f7a7ee83921c887
