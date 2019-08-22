@@ -1,7 +1,7 @@
 baseurl         = ""
 theme           = "casper-two"
 languageCode    = "tr-TR"
-disqusShortname = ""
+disqusShortname = "barplatoon-website"
 paginate        = 6
 #SectionPagesMenu = "main"
 
