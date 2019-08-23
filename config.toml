@@ -1,4 +1,4 @@
-baseurl         = "https://barplatoon.com"
+baseurl         = "https://www.barplatoon.com"
 theme           = "casper-two"
 languageCode    = "tr-TR"
 disqusShortname = "barplatoon-website"
