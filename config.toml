@@ -22,8 +22,8 @@ paginate        = 6
 
   logo = "barplatoonshielded.png"
   orgName = "Bar Platoon"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https://www.barplatoon.com"
+  orgDescription = "bilgi"
 
   author = "Melih Karakaya"
   authorAvatar = "photo_2019-08-08_21-07-23.jpg"
