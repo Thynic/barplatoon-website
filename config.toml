@@ -8,7 +8,6 @@ paginate        = 6
 [params]
   title       = "Bar Platoon"
   subtitle    = "."
-  siteTitle = "Bar Platoon"
 
   cover       = "winter-fog.jpg"
   description = "üstün varlık"
