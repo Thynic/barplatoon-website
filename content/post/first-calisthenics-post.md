@@ -1,6 +1,6 @@
 ---
 author: "Yiğit Yılmaz"
-authorAvatar: "photo_2019-08-20_16-53-38.jpg"
+authorAvatar: "uploads/photo_2019-08-20_16-53-38.jpg"
 authorLocation: "TR"
 authorDescription: "Eklem Katili"
 title: "Calisthenics Rehberi"

@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Bar Platoon"
   subtitle    = "."
 
-  cover       = "winter-fog.jpg"
+  cover       = "uploads/winter-fog.jpg"
   description = "üstün varlık"
   metaDescription = ""
   googleAnalytics = ""
@@ -20,13 +20,13 @@ paginate        = 6
   fbName = "justez"
   githubName = "thynic"
 
-  logo = "barplatoonshielded.png"
+  logo = "uploads/barplatoonshielded.png"
   orgName = "Bar Platoon"
   orgWebsite = "https://www.barplatoon.com"
   orgDescription = "bilgi"
 
   author = "Melih Karakaya"
-  authorAvatar = "photo_2019-08-08_21-07-23.jpg"
+  authorAvatar = "uploads/photo_2019-08-08_21-07-23.jpg"
   authorLocation = "TR"
   authorWebsite = "https://melihkarakaya.com"
   authorDescription = "realist, idealist, surrealist"
