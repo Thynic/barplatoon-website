@@ -10,7 +10,7 @@ backend:
     - name: "antrenman"
       label: "Antrenman"
       folder: "content/antrenman"
-      create: false
+      create: true
       slug: "{{year}}-{{month}}-{{slug}}"
       fields: 
         - {label: "Title", name: "title", widget: "string", required: true}
