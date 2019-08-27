@@ -6,20 +6,20 @@ backend:
 media_folder: "static/uploads"
 public_folder: "uploads"
 
-media_library:
-  name: uploadcare
-  config:
-    publicKey: demopublickey
+#media_library:
+  #name: uploadcare
+  #config:
+    #publicKey: demopublickey
 
-  site_url: https://barplatoon.com
+  #site_url: https://barplatoon.com
 
-  slug:
-  encoding: "unicode"
-  clean_accents: false
-  sanitize_replacement: "-"
+  #slug:
+  #encoding: "unicode"
+  #clean_accents: false
+  #sanitize_replacement: "-"
 
 collections:
-- name: posts
+- name: "posts"
   label: "Blog" # Used in the UI
   folder: "_posts/blog" # The path to the folder where the documents are stored
   create: true # Allow users to create new documents in this collection
