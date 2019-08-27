@@ -11,7 +11,7 @@ media_library:
   config:
     publicKey: demopublickey
 
-  site_url: https://barplatoon.com/
+  site_url: https://barplatoon.com
 
   slug:
   encoding: "unicode"
