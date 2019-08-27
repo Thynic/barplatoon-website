@@ -1,7 +1,7 @@
 ---
 title: Beslenme Rehberi
 date: 2019-08-27T12:19:50.935Z
-draft: true
+draft: false
 tags:
   - beslenme yemek
 author: Melih Karakaya
