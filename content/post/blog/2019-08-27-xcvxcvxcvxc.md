@@ -1,7 +1,7 @@
 ---
 title: xcvxcvxcvxc
 date: 2019-08-27T10:22:47.239Z
-draft: true
+draft: false
 categories: Podcast
 tags:
   - antrenman
