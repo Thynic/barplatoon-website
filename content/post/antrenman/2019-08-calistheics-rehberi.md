@@ -1,5 +1,5 @@
 ---
-title: Calistheics Rehberi
+title: Calisthenics Rehberi
 date: 2019-08-27T11:40:50.711Z
 draft: false
 tags:
