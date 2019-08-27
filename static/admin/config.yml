@@ -41,7 +41,7 @@ collections:
   - name: "Beslenme Postu"
     label: "Beslenme" # Used in the UI
     folder: "content/post/beslenme" # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
@@ -60,7 +60,7 @@ collections:
   - name: "Zihinsel Post"
     label: "Zihinsel" # Used in the UI
     folder: "content/post/zihinsel" # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
