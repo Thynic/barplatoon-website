@@ -38,3 +38,41 @@ collections:
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Beslenme Postu"
+    label: "Beslenme" # Used in the UI
+    folder: "content/post/beslenme" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "hidden"}
+      - {label: "Tags", name: "tags", widget: "list", required: true, default: "beslenme"}
+      - {label: Author, name: author}
+      - {label: Author Image, name: authorAvatar, widget: image}
+      - {label: Author Description, name: authorDescription}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Zihinsel Post"
+    label: "Zihinsel" # Used in the UI
+    folder: "content/post/zihinsel" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "hidden"}
+      - {label: "Tags", name: "tags", widget: "list", required: true, default: "zihinsel"}
+      - {label: Author, name: author}
+      - {label: Author Image, name: authorAvatar, widget: image}
+      - {label: Author Description, name: authorDescription}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}
