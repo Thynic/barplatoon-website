@@ -6,7 +6,7 @@ categories: Podcast
 tags:
   - antrenman
 author: Yiğit Yılmaz
-authorImage: /uploads/winter-fog.jpg
+authorAvatar: /uploads/winter-fog.jpg
 authorDescription: eklem katili
 image: /uploads/active-bar-blur-791764.jpg
 comments: true

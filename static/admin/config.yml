@@ -28,11 +28,10 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "Podcast"}
-    - {label: "Tags", name: "tags", widget: "list", required: false}
-    - {label: Author, name: author, default: Yiğit Yılmaz}
+    - {label: "Tags", name: "tags", widget: "list", required: true}
+    - {label: Author, name: author}
     - {label: Author Image, name: authorAvatar, widget: image}
-    - {label: Author Description, name: authorDescription, default: realist, idealist, surrealist}
+    - {label: Author Description, name: authorDescription}
     - {label: "Header Image", name: image, widget: image, required: false}
     - {label: Commenting, name: comments, widget: boolean, default: true}
     - {label: Sharing, name: share, widget: boolean, default: true}
