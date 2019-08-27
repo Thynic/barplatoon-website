@@ -6,6 +6,18 @@ backend:
   media_folder: "static/uploads"
   public_folder: "uploads"
 
+  media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+
+  site_url: https://barplatoon.com/
+
+  slug:
+  encoding: "unicode"
+  clean_accents: false
+  sanitize_replacement: "-"
+
   collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
