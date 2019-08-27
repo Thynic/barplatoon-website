@@ -7,9 +7,9 @@ backend:
   public_folder: "uploads"
 
   media_library:
-  name: uploadcare
-  config:
-    publicKey: demopublickey
+    name: uploadcare
+    config:
+      publicKey: demopublickey
 
   site_url: https://barplatoon.com/
 
