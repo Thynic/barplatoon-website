@@ -1,6 +1,6 @@
 ---
 title: Zihin Gücü
-date: 2019-08-27T12:36:00.000Z
+date: 2019-08-27T11:39:00.000Z
 draft: false
 tags:
   - zihinsel
