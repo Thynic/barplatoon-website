@@ -7,7 +7,7 @@ tags:
 author: Yiğit Yılmaz
 authorAvatar: /uploads/photo_2019-08-20_16-53-38.jpg
 authorDescription: ig@eklemkatili
-image: /uploads/statue.jpg
+image: /uploads/active-bar-blur-791764.jpg
 type: post
 ---
 yakında
