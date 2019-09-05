@@ -61,4 +61,4 @@ type: post
 
 ![victor-frankl-quote](/uploads/attitude.png "victor-frankl-quote")
 
-  Zihin üzerinde kontrol geliştirmek için spora başlamayı örnek olarak verdik, fakat örnek olarak kalmamalı. Neden bu kadar önemli olduğu ile ilgili gerekli bilgiyi “neden antrenman yapmalı?” yazımızda verdik ve okumanızı şiddetle tavsiye ediyoruz.
+  Zihin üzerinde kontrol geliştirmek için spora başlamayı örnek olarak verdik, fakat örnek olarak kalmamalı. Neden bu kadar önemli olduğu ile ilgili gerekli bilgiyi “[neden antrenman yapmalı?](https://www.barplatoon.com/neden-antrenman-yapmal%C4%B1/)” yazımızda verdik ve okumanızı şiddetle tavsiye ediyoruz.
