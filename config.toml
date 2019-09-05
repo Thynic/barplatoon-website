@@ -45,8 +45,8 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-name = "Nedir?"
-url = "/tags/nedir?/"
+name = "Başlangıç"
+url = "/tags/başlangıç/"
 weight = 150
 
 [[menu.main]]
