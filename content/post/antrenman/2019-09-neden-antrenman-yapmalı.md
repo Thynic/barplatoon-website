@@ -6,7 +6,7 @@ tags:
   - antrenman
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
-authorDescription: ig@thynicbutstronger
+authorDescription: '@thynicbutstronger'
 image: /uploads/active-bar-blur-791764.jpg
 type: post
 ---
