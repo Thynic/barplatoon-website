@@ -15,7 +15,7 @@ type: post
   Birçok öğretinin keşişlerinin tek işi düşünmek ve hayatın anlamı hakkında sonuçlara ulaşmaktı. Fakat zamanla başlarındaki kişiler fark etti ki keşişler görevlerini yerine getirmeyip tembel davranıyordu, sebebi ise irade gerektiren çok fazla iş yapmamalarıydı. Sonraları fiziksel antrenman sistemleri geliştirerek zihinsel tembelliğin önüne geçmeyi denediler, ve bu işe yaradı. Liderleri anlamıştı ki zihinsel güç için fiziksel güç de gerekliydi, birbirinden ayrı düşünülemezdi (hatta Yoga ve benzeri prensiplerin de çıkış noktasının bu düşünce olduğu söyleniyor). Bizim uyguladığımız ve uygulamanızı önereceğimiz prensipler ağırlıklı olarak Calisthenics ve Powerlifting’tir (tabii ki istediğiniz branşa yönelebilirsiniz, bunlar bizim bilgi/tecrübe sahibi olduğumuz dallar). 
 
 ![handstand](/uploads/acro-acro-yoga-active-1139500-1-.jpg "handstand")
-[(photo:theformfitness from Pexels)](https://www.pexels.com/@theformfitness-446016) 
+[(photo: theformfitness from Pexels)](https://www.pexels.com/@theformfitness-446016) 
 
 > “Fiziksel egzersiz sadece sağlıklı bir vücudun değil, aynı zamanda dinamik ve yaratıcı entelektüel aktivitenin anahtarıdır.” John F. Kennedy
 
