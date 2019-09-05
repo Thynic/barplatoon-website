@@ -20,64 +20,38 @@ type: post
 
 ![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote")
 
-
-
 ```
 “Kışın ortasında, içimde yenilmez bir yaz buldum.” -Albert Camus
 ```
 
-
-
   Görüldüğü üzere, bu felsefe bize odağımızı değiştirerek gereksiz düşüncelerden arınmayı, zaman kaybını önlemeyi ve sadece gelişime odaklanmayı öneriyor. Karşılığında vermeniz gereken en önemli şey zihniniz üzerinde kontrolü ele geçirmenizdir. Olay, kontrolünüzde olanlardan maksimum faydayı görmek ve kontrolünüzde olmayanları o şekil bırakmaksa, zihniniz üzerinde kontrol sahibi olmak da bu düşünce sisteminin size kazandıracaklarını maksimuma yaklaştırmanız demektir. Kontrol dışı, istemsiz olarak verilen tepkiler vardır. Bu gibi durumlarda yapabileceğiniz en kötü şey, verilen tepkiyi sebeplendirmekten kaçarak, “benim suçum yok, elimden bir şey gelmezdi” demek olacaktır. Evet doğru, bazı olaylarda elinizden gerçekten bir şey gelmez ve de bu sistemin yapmanızı istediği şeyi yapmak, o şekil bırakmak en doğrusu olacaktır. Ama diyelim birisine (belki de bir arkadaşınıza) kötü davrandınız ya da o kişiyi terslediniz. Bu durumda kendinize “bazen modum değişiyor, kafam atıyor, ondan böyle oldu” demeniz sebeplendirme konseptine uzak olduğunuzu ya da bunun için uğraşmadığınızı gösterir. Eğer sebeplendirecek olsaydınız, konu üzerine düşünüp bir sebep bulabilirdiniz (büyük ihtimalle de bulacaksınız). 
-
-
 
 * “Bütün eylemleri sorgulamayı öğren, “Bunu neden yapıyorlar?” Kendi eylemlerinden başla.” -Marcus Aurelius
 
 ![marcus-aurelius-quote](/uploads/ask.png "marcus-aurelius-quote")
 
-
-
 * “Rastgele hareketleri bırak. Hiçbir hareketin altta yatan prensiplerden bağımsız gerçekleşmemeli.” -Marcus Aurelius 
 
-
-
-“Hareketlerinin sebeplerini bilmeden, iyi mi yoksa kötü mü davrandıklarını nasıl bilebilirsin?” - Epictetus
+> “Hareketlerinin sebeplerini bilmeden, iyi mi yoksa kötü mü davrandıklarını nasıl bilebilirsin?” - Epictetus
 
 ![epictetus-quote](/uploads/reasons.png "epictetus-quote")
 
-
-
 “İçini dışına çevir, nasıl bir şey olduğunu, ihtiyarladığında, hastalandığında, şehvete düştüğünde nasıl bir şey olduğuna bak.” -Marcus Aurelius
 
-
-
   İrrasyonel (sebebi/temeli olmayan/görünmeyen) bir davranışta bulunduktan sonra bu davranışınızın sebebini bulursanız, diğer sefere bu sebebi bildiğiniz için o hareketi yapmak size çok da haklı görünmeyecektir. Başka bir zaman aynı davranışta bulunacak olduğunuzda bu aklınıza gelecek ve kendinizi durduracaksınız. Evet, bu gerçekleştiğinde de zihniniz üzerindeki kontrolünüz artmış olacak. Bu düşünce sisteminin de en sevdiği şey budur. Temel amaç sadece kontrol dahilinde olan olaylarla ilgilenmekse kontrol dahilindeki olayların sayısını arttırmak da sizi kesinlikle daha iyi/mutlu bir insan yapacaktır. 
-
-
 
 “Aklınızda bulunsun: olaylara ne kadar kontrolümüz dışında değer (bizim örneğimizde tepki) verirsek, o kadar az kontrole sahip oluruz.” -Epictetus 
 
 ![epictetus-quote](/uploads/control.png "epictetus-quote")
 
-
-
   Davranışlarınızı sebeplendirmek sadece o davranışın mantıklı ya da haklı olup olmadığını görmenize yardımcı olur. Bunu gördükten sonra mantıklı olanı yapmak için zihniniz üzerinde belirli bir seviyede kontrol sahibi olmalısınız, çünkü içgüdüleriniz kolay olanı yapmak isteyecektir. En basitinden, sinirliyken bunu başkalarına yansıtmamak her insanın yapabileceği bir şey değil ve bunun belirleyicilerinden birisi de kişinin içgüdülerini ne kadar kontrol edebildiğidir. Zihniniz üzerinde kontrol edinmenizi sağlayacak en etkili şey ise (geliştirilebilir her özellikte olduğu gibi) sürekli bunun pratiğini yapmaktır. Yani hayatınıza zihin kontrolü gerektiren aktiviteler sokmalısınız. Kötü bir alışkanlığı bırakmak, spora başlamak, yeni bir hobi edinmek, bir hedef koyup o hedefe ulaşmaya çalışmak gibi. Bunların hepsi zihin kontrolü ister ve ayarında yapılırsa zihniniz üzerindeki kontrolünüzü de arttırır. Ayarında yapmaktan kasıt, günde 1 paket sigara içen birisi iseniz sigarayı birden bırakmaya çalışmaktansa, azaltarak 0’a indirmeye çalışmanızdır. Ya da yukarıda verdiğim örneklerin hepsini aynı anda yapmamaktır. Spora başlanıyorsa, aynı zamanda yeni bir hobi de edinmek, bazı insanlar için zor olabilir ve ayarı kaçırmak anlamına gelebilir. Ayarında giderek bu tarz aktiviteleri arttırırsanız, zihniniz üzerindeki kontrolünüz de artacaktır. 
-
-
 
   “Zihninizi rahatsızlığa sürükleyerek onu güçlendirin” -Robert Greene (tw)
 
-
-
   Zihin kontrolünden çok bahsettik, peki neden bu kadar önemli? Bu felsefeyi bilen kişi sayısı az değil, fakat pratiğe geçirme kısmında çoğu insan başarılı olamıyor. Konseptleri anlamadıklarından değil, hatta kitabı (Kendime Düşünceler – Marcus Aurelius) okuduğu hâlde pratiğe dökemeyenler var. “Kontrol edebildiklerinin ustası ol, kontrolün dışı olanları o şekil kabul et.” dedik, dediler. Sizce bunu okumak kaç insanın bu düşünce sistemini hayatına uygulamasına yeterli olur? Evet, çok da fazla değil. Bunun sebebi ise bunun için gerekli birtakım şeyler olmasıdır. Kontrol edilemeyecek bazı şeyleri kabullenmek kolay olabilir, fakat bunun kolaylığı durumlara göre değişir. Belki sınav sonucunu değiştiremeyecek oluşunu kabullenip, önündeki sınavlara hazırlanmak yapılabilir, kolay bir şey. Fakat daha ekstrem örnekler verecek olursak, sevilen birini kaybetmek gibi, bunun hayali bile çoğu insan için çok zor olacaktır. İşte bizim, küçük küçük pratiklerle geliştirmenizi istediğimiz zihin kontrolü, bu gibi durumlarda işe yarayacaktır. Size “kontrol sahibi olmadığınız” olayları kabullenmekte güç verecektir. Stoacılık için gerekli en önemli temellerden birisi budur. Temeli koymalıyız ki, bir bütün olarak sağlam olabilelim. Başarılı bir sporcu olmak istediğimizde tek bir yenilgiden sonra depresyona girmeyelim, her şey güzel giderken elimizde olmayan bir şey tarafından aşağı çekilmeyelim. Stoacılığın sizi hazırlayacağı durumlar bunlardır. Aynı zamanda bizim bu platformda uyguladığımız ve tavsiye edeceğimiz nice şeylerin de temelidir. 
-
-
 
 “Bir insanın elinden her şeyi alınabilir, bir şey dışında: insan özgürlüklerinin en temeli olan -koşullar ne olursa olsun kişinin kendi tutumunu seçebilme özgürlüğü.” -Viktor Frankl
 
 ![victor-frankl-quote](/uploads/attitude.png "victor-frankl-quote")
-
-
 
   Zihin üzerinde kontrol geliştirmek için spora başlamayı örnek olarak verdik, fakat örnek olarak kalmamalı. Neden bu kadar önemli olduğu ile ilgili gerekli bilgiyi “neden antrenman yapmalı?” yazımızda verdik ve okumanızı şiddetle tavsiye ediyoruz.
