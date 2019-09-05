@@ -67,9 +67,9 @@ collections:
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}  
-  - name: "Nedir"
-    label: "Nedir" # Used in the UI
-    folder: "content/post/nedir" # The path to the folder where the documents are stored
+  - name: "Başlangıç"
+    label: "Başlangıç" # Used in the UI
+    folder: "content/post/Başlangıç" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
