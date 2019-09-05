@@ -12,7 +12,7 @@
     <link rel="shortcut icon" href="{{ "bpfavicon.ico" | absURL}}" />
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    {{ if .IsPage }} <meta name="description" content="{{ Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz! | default (substr .Summary 0 160) }}" /> {{ else }}
+    {{ if .IsPage }} <meta name="description" content="Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!" /> {{ else }}
     <meta name="description" content="{{ .Site.Params.metadescription | default .Site.Params.description }}" /> {{ end }}
 
     {{ partial "meta-twitter" . }}
