@@ -18,9 +18,9 @@ type: post
 
 > “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius
 
-(photo: ig@dailystoic)
-
 ![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote")
+
+(photo: ig@dailystoic)
 
 > “Kışın ortasında, içimde yenilmez bir yaz buldum.” -Albert Camus
 
@@ -32,9 +32,9 @@ type: post
 
 > “Rastgele hareketleri bırak. Hiçbir hareketin altta yatan prensiplerden bağımsız gerçekleşmemeli.” -Marcus Aurelius 
 
-(photo: ig@stoicgorilla)
-
 ![marcus-aurelius-quote](/uploads/underlying.png "marcus-aurelius-quote")
+
+(photo: ig@stoicgorilla)
 
 > “Hareketlerinin sebeplerini bilmeden, iyi mi yoksa kötü mü davrandıklarını nasıl bilebilirsin?” - Epictetus
 
