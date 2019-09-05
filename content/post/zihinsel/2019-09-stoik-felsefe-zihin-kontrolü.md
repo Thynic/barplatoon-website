@@ -8,7 +8,7 @@ tags:
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
 authorDescription: '@thynicbutstronger'
-image: /uploads/computer-3717686_640.png
+image: /uploads/backlit-clouds-dawn-415380.jpg
 type: post
 ---
 \-
