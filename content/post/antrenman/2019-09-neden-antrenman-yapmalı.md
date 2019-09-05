@@ -17,7 +17,7 @@ type: post
 ![handstand](/uploads/acro-acro-yoga-active-1139500-1-.jpg "handstand")
 [(photo: theformfitness from Pexels)](https://www.pexels.com/@theformfitness-446016) 
 
-> “Fiziksel egzersiz sadece sağlıklı bir vücudun değil, aynı zamanda dinamik ve yaratıcı entelektüel aktivitenin anahtarıdır.” -John F. Kennedy
+> “Fiziksel egzersiz sadece sağlıklı bir vücudun değil, aynı zamanda dinamik ve yaratıcı entelektüel aktivitenin de anahtarıdır.” -John F. Kennedy
 
   Calisthenics, vücut ağırlığı ile başladığınız bir spor. Temel hareketleri barfiks, dip, squat ve şınavıdr ve bu hareketler vücut ağırlığınız ile uygulanır (sonraları ağırlıklı varyasyonları tercih edilebilir). Bu sporu zevkli ve irade gerektirir kılan yanı ise limiti belirleyen kişinin siz olmanız (çoğu branşta olduğu gibi). Tam şu anda şınav çekmeye başlarsanız belki de %70 efordan sonra bırakacaksınız, ya da %100 enerjinizi verip tükenişe (failure) ulaşacaksınız. Calisthenics antrenmanlarının tükenişe gitme konusunda sınırı yoktur, hangi seviyede olursanız olun tam potansiyelinizi vererek, potansiyelinizi genişletebilirsiniz. Bu şekilde yaptığınız her antrenman bir irade testine dönüşecektir. Aynı zamanda birçok askeri eğitimin temelinde de calisthenics prensiplerini yatar ve bu spartalılara (belki de daha öncesine) kadar uzanır. Spartalıları unutmayın, onlar mental ve fiziksel güç olarak bizim aklımızdaki modelin hayalî olmayan versiyonlarıdır. Sadece deneyin ve acıyı tadın, dostunuzdur.
 
