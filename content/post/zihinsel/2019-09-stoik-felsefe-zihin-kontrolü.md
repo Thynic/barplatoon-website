@@ -12,11 +12,13 @@ authorDescription: ig@thynicbutstronger
 image: /uploads/computer-3717686_1280.png
 type: post
 ---
+
+
   Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180). Bu felsefeyi ortaya çıkaran temel görüş, sadece kontrol edilebilecek şeylere odaklanmak ve diğerlerini olduğu gibi kabul etmektir. Örneğin fiziksel bir özellik hoşa gitmiyorsa ve değişmesi için yapılabilecek bir şey yoksa, o özellik olduğu gibi kabul edilmelidir. Örneğin boyunun kısa olması durumunda hiçbir şekilde bu kusuru büyük ölçüde yok edemezsin. Trapezleri büyütmek, postürü düzeltmek gibi çözüm yolları izlenebilir fakat yine de büyük ölçülerde farklar yaratmayacaklardır. Elden gelen tek şey trapezleri büyütmek ve postürü düzeltmekse onların yapılmasında bu felsefe açısından bir sakınca yoktur. Fakat bunlar yapıldıktan sonra kalan kısım, olduğu gibi kabul edilmelidir. Çünkü elden gelen her şey yapılmıştır. Eğer bu örnekten farklı olarak elden hiçbir şey gelmiyorsa da direk olduğu gibi kabul edilmelidir. Yaşlanmayı durduramazsın, geçmişi değiştiremezsin. Bu gibi durumlarda kontrolünde olan tek şey ilerisidir ve geçmişte yaşamak yerine geleceğe odaklanmak en mantıklısı ve bu felsefeye de en uygunudur. Geçmiş ve gelecek örneği aslında bu düşünce sistemini yeterince özetliyor. 
 
   Diyelim ki bir ortamda rezil oldun. Rezil olunan anı değiştirmek için hiçbir şey yapamazsın, elinde değildir. Fakat bundan sonrası elindedir. Sürekli o anı düşünüp üzülmektense ilerisi için yapılabilecekler düşünülmelidir. Nerede hata yaptığını bulup, benzeri bir durumda bulunduğun bir sonraki sefer aynı hataları yapmamaya odaklanmalısın. Geçmişin sana tek etkisi, onun sana kazandırdığı tecrübeler olmalıdır. Öğrenebileceğini öğrenip o defteri kapatmalısın, aksi halde sana sadece zarar verir. Anın sonrasında yapabileceklerin olduğu gibi, anın içinde de yapabileceğin şeyler vardır. Eğer zor bir durumda isen, örneğin sözlü saldırıya uğruyorsan, duruşunu bozmamalısın ki düşüncelerin dışarıdan etkilenmesin. Verdiğin tepkileri kontrol ederlerse, seni de kontrol ederler. Her ne söylenirse söylensin, söylenenler kabuğunu delip zihnine ulaşmamalıdır. Bu gibi durumlarda içinde dönen şeylere bakmalısın çünkü kimin ne diyeceği elinde değildir, isteyen istediği yorumu yapar. Önemli olan senin tepkindir. Yapman gereken şey, metanetini, sakinliğini ve mantıklılığını korumaktır. Her durumda sadece yapabileceklerine odaklanmanın getireceği güç budur. Gereksiz eylemlere (örn. öfke) zaman ve enerji harcamayıp sadece durumu çözebilecek, daha iyi hâle getirebilecek şeylere odaklanmış olursun.
 
-> “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius
+> “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius (photo: ig@dailystoic)
 
 ![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote")
 
@@ -28,7 +30,9 @@ type: post
 
 ![marcus-aurelius-quote](/uploads/ask.png "marcus-aurelius-quote")
 
-> “Rastgele hareketleri bırak. Hiçbir hareketin altta yatan prensiplerden bağımsız gerçekleşmemeli.” -Marcus Aurelius 
+> “Rastgele hareketleri bırak. Hiçbir hareketin altta yatan prensiplerden bağımsız gerçekleşmemeli.” -Marcus Aurelius (photo: ig@stoicgorilla)
+>
+> ![marcus-aurelius-quote](/uploads/underlying.png "marcus-aurelius-quote")
 >
 > “Hareketlerinin sebeplerini bilmeden, iyi mi yoksa kötü mü davrandıklarını nasıl bilebilirsin?” - Epictetus
 
