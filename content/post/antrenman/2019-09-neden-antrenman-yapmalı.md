@@ -24,7 +24,7 @@ type: post
 ![muscle-up](/uploads/action-active-agility-2261479-1-.jpg "muscle-up")
 [(photo: Victor Freitas from Pexels)](https://www.pexels.com/@victorfreitas)
 
-  Calisthenics’te bazı ulaşılması emek isteyen hareketler (skill’ler) vardır. En temellerinden örnekler verecek olursak
+  Calisthenics’te bazı ulaşılması emek isteyen hareketler (skill’ler) vardır. En temellerinden örnekler verecek olursak:
 
 * L-sit
 * Muscle up
