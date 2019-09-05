@@ -18,7 +18,7 @@ type: post
 
   Diyelim ki bir ortamda rezil oldun. Rezil olunan anı değiştirmek için hiçbir şey yapamazsın, elinde değildir. Fakat bundan sonrası elindedir. Sürekli o anı düşünüp üzülmektense ilerisi için yapılabilecekler düşünülmelidir. Nerede hata yaptığını bulup, benzeri bir durumda bulunduğun bir sonraki sefer aynı hataları yapmamaya odaklanmalısın. Geçmişin sana tek etkisi, onun sana kazandırdığı tecrübeler olmalıdır. Öğrenebileceğini öğrenip o defteri kapatmalısın, aksi halde sana sadece zarar verir. Anın sonrasında yapabileceklerin olduğu gibi, anın içinde de yapabileceğin şeyler vardır. Eğer zor bir durumda isen, örneğin sözlü saldırıya uğruyorsan, duruşunu bozmamalısın ki düşüncelerin dışarıdan etkilenmesin. Verdiğin tepkileri kontrol ederlerse, seni de kontrol ederler. Her ne söylenirse söylensin, söylenenler kabuğunu delip zihnine ulaşmamalıdır. Bu gibi durumlarda içinde dönen şeylere bakmalısın çünkü kimin ne diyeceği elinde değildir, isteyen istediği yorumu yapar. Önemli olan senin tepkindir. Yapman gereken şey, metanetini, sakinliğini ve mantıklılığını korumaktır. Her durumda sadece yapabileceklerine odaklanmanın getireceği güç budur. Gereksiz eylemlere (örn. öfke) zaman ve enerji harcamayıp sadece durumu çözebilecek, daha iyi hâle getirebilecek şeylere odaklanmış olursun.
 
-> “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius (photo: ig@dailystoic)
+> “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius (photo: ig@stoicgorilla) 
 
 ![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote")
 
