@@ -70,7 +70,7 @@ Formu bir şekilde düzelttiniz, fakat daha karışık bir yanı var ki: program
 
   Antrenman yapmaya davet niteliğindeki bu yazımız yeterince ikna edici olduysa gelecek yazılarımızda görüşmek üzere.
 
-_Kaynaklar:_ 
+`Kaynaklar: `
 
-* _https://exerciseright.com.au/brain-derived-neurotrophic-factor-bdnf-and-exercise/_
-* _http://extrahappiness.com/happiness/?p=4218_
+* `https://exerciseright.com.au/brain-derived-neurotrophic-factor-bdnf-and-exercise/`
+* `http://extrahappiness.com/happiness/?p=4218`
