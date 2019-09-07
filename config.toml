@@ -11,7 +11,7 @@ paginate        = 6
 
   cover       = "uploads/winter-fog.jpg"
   description = "Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!"
-  metaDescription = ""
+  metaDescription = "Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!" 
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
