@@ -1,15 +1,7 @@
----
-title: Buradan Başlayın
-date: 2019-09-05T22:31:35.415Z
-draft: false
-tags:
-  - başlangıç
-author: Bar Platoon
-authorAvatar: /uploads/barplatoonshielded.png
-authorDescription: '@barplatoon'
-image: /uploads/athletes-black-and-white-black-and-white-34514.jpg
-type: post
----
+## Buradan Başlayın
+
+![start](/uploads/athletes-black-and-white-black-and-white-34514.jpg "start")
+
 En önemli yazılarımızı önerilen sıralamayla buradan okuyabilirsiniz:
 
 1. [Stoik Felsefe - Zihin Gücü](https://www.barplatoon.com/stoik-felsefe-zihin-kontrol%C3%BC/)

@@ -23,13 +23,13 @@ paginate        = 6
   logo = "uploads/barplatoonshielded.png"
   orgName = "Bar Platoon"
   orgWebsite = "https://www.barplatoon.com"
-  orgDescription = "bilgi"
+  orgDescription = ""
 
   author = "Melih Karakaya"
   authorAvatar = "uploads/photo_2019-08-08_21-07-23.jpg"
   authorLocation = "TR"
-  authorWebsite = "https://melihkarakaya.com"
-  authorDescription = "realist, idealist, surrealist"
+  authorWebsite = "https://www.instagram.com/thynicbutstronger"
+  authorDescription = "@thynicbutstronger"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -46,8 +46,18 @@ paginate        = 6
 
 [[menu.main]]
 name = "Başlangıç"
-url = "/buradan-başlayın/"
+url = "/start/"
 weight = 150
+
+[[menu.main]]
+  name = "Kullanım Koşulları"
+  url = "/termsofuse/"
+  weight = 148
+
+[[menu.main]]
+  name = "Etiketler"
+  url = "/tags/"
+  weight = 145
 
 [[menu.main]]
   name = "Antrenman"
@@ -63,7 +73,5 @@ weight = 150
   name = "Zihinsel"
   url = "/tags/zihinsel/"
   weight = 103
-[[menu.main]]
-  name = "Etiketler"
-  url = "/tags/"
-  weight = 145
+
+
