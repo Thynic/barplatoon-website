@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
 name = "Başlangıç"
-url = "/tags/başlangıç/"
+url = "/buradan-başlayın/"
 weight = 150
 
 [[menu.main]]
@@ -63,3 +63,7 @@ weight = 150
   name = "Zihinsel"
   url = "/tags/zihinsel/"
   weight = 103
+[[menu.main]]
+  name = "Etiketler"
+  url = "/tags/"
+  weight = 145
