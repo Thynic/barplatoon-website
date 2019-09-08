@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Bar Platoon"
-  subtitle    = "."
+  subtitle    = ""
 
   cover       = "uploads/arm.jpg"
   description = "Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!"
