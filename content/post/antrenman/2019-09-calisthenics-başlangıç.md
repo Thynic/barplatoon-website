@@ -10,4 +10,4 @@ authorDescription: '@eklemkatili'
 image: /uploads/active-close-up-crossfit-workouts-2261476.jpg
 type: post
 ---
-yakında
+01.12.19
