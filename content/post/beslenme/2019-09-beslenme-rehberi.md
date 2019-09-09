@@ -10,4 +10,4 @@ authorDescription: '@barplatoon'
 image: /uploads/animal-black-and-white-lion-4260.jpg
 type: post
 ---
-yakında
+01.12.19
