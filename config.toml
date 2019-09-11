@@ -45,14 +45,9 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-name = "Başlangıç"
-url = "/start/"
-weight = 150
-
-[[menu.main]]
-  name = "Kullanım Koşulları"
-  url = "/termsofuse/"
-  weight = 148
+  name = "Başlangıç"
+  url = "/start/"
+  weight = 150
 
 [[menu.main]]
   name = "Etiketler"
