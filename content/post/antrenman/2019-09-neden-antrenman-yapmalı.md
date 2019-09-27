@@ -22,9 +22,7 @@ type: post
 
 Görüldüğü üzere BDNF'in etkileri hiç de küçümsenecek gibi değil. Hatta 2005'te Dr. Joseph Mercola'nın mercola.com sitesinde rapor ettiğine göre 10 ay boyunca egzersiz yapan ve antidepresan kullanan olarak ayrılan ve genç yetişkinlerden oluşan iki grup karşılaştırıldığında egzersiz ile antidepresanın etkilerinin yakın, hatta egzersizin bir tık daha etkili olduğu gözlemlendi. Egzersiz olarak haftada 3-5 gün 30'ar dakikalık aerobik egzersizler uygulandı ve etkilerinin yakın olduğu antidepresan ise Zoloft'tu. 
 
-## Ve aklınızda bulunsun, aynı anda hem egzersiz yapıp hem de antidepresan almak daha etkili değil.
-
-
+**Ve aklınızda bulunsun, aynı anda hem egzersiz yapıp hem de antidepresan almak daha etkili değil.**
 
   1990'larda Prof. James A. Blumenthal ve meslektaşları tarafından yapılan bir araştırmada majör depresyon sahibi 156 yetişkin katılımcı egzersiz yapan, antidepresan (Zoloft) kullanan, ve her ikisini de yapan olarak 3 gruba ayrıldı ve egzersizler haftada 3 gün 30'ar dakikalık hızlı tempo egzersizler şeklinde uygulandı. 16 haftanın sonunda egzersiz yapan iki grupta da depresyonun azalma oranı eşit çıktı. Blumenthal ve ekibi grupları altı ay daha gözlemlemeye karar verdiler ve fark ettiler ki egzersiz yapmaya devam eden ama antidepresan almayan katılımcıların depresyona yeniden yakalanma ihtimalleri daha düşüktü. Sadece antidepresan kullanan grubun %38'i, her ikisini de yapan grubun %31'i, sadece egzersiz yapan grubun ise %8'i tekrar depresyona yakalandı. Yani egzersiz yapmak, antidepresanlardan daha antidepresan. Üstelik bu araştırmalar sadece 30 dakika kadar kısa bir sürede uygulanan aerobik egzersizler üzerinde yapıldı. Bir de işin hedef koyup o hedefe ulaşma kısmı var ki, bu yararları kat kat arttırabilir. Yoga, jimnastik, calisthenics gibi sporlarda ulaşılması gereken çok fazla hareket vardır ve bunlar sizi hedef sahibi yapar. O hedeflere ulaştığınızda da dünyanın en mutlu insanı olursunuz.
 
