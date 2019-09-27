@@ -7,7 +7,7 @@ tags:
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
 authorDescription: '@thynicbutstronger'
-authorWebsite: "https://www.instagram.com/thynicbutstronger"
+authorWebsite: 'https://www.instagram.com/thynicbutstronger'
 image: /uploads/active-bar-blur-791764.jpg
 type: post
 ---
