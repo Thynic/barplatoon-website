@@ -24,6 +24,8 @@ Görüldüğü üzere BDNF'in etkileri hiç de küçümsenecek gibi değil. Hatt
 
 ## Ve aklınızda bulunsun, aynı anda hem egzersiz yapıp hem de antidepresan almak daha etkili değil.
 
+
+
 1990'larda Prof. James A. Blumenthal ve meslektaşları tarafından yapılan bir araştırmada majör depresyon sahibi 156 yetişkin katılımcı egzersiz yapan, antidepresan (Zoloft) kullanan, ve her ikisini de yapan olarak 3 gruba ayrıldı ve egzersizler haftada 3 gün 30'ar dakikalık hızlı tempo egzersizler şeklinde uygulandı. 16 haftanın sonunda egzersiz yapan iki grupta da depresyonun azalma oranı eşit çıktı. Blumenthal ve ekibi grupları altı ay daha gözlemlemeye karar verdiler ve fark ettiler ki egzersiz yapmaya devam eden ama antidepresan almayan katılımcıların depresyona yeniden yakalanma ihtimalleri daha düşüktü. Sadece antidepresan kullanan grubun %38'i, her ikisini de yapan grubun %31'i, sadece egzersiz yapan grubun ise %8'i tekrar depresyona yakalandı. Yani egzersiz yapmak, antidepresanlardan daha antidepresan. Üstelik bu araştırmalar sadece 30 dakika kadar kısa bir sürede uygulanan aerobik egzersizler üzerinde yapıldı. Bir de işin hedef koyup o hedefe ulaşma kısmı var ki, bu yararları kat kat arttırabilir. Yoga, jimnastik, calisthenics gibi sporlarda ulaşılması gereken çok fazla hareket vardır ve bunlar sizi hedef sahibi yapar. O hedeflere ulaştığınızda da dünyanın en mutlu insanı olursunuz.
 
   Bizim uyguladığımız ve uygulamanızı önereceğimiz prensipler ağırlıklı olarak Calisthenics ve Powerlifting’tir (tabii ki istediğiniz branşa yönelebilirsiniz, bunlar bizim bilgi/tecrübe sahibi olduğumuz dallar). 
@@ -34,6 +36,8 @@ Görüldüğü üzere BDNF'in etkileri hiç de küçümsenecek gibi değil. Hatt
 > “Fiziksel egzersiz sadece sağlıklı bir vücudun değil, aynı zamanda dinamik ve yaratıcı entelektüel aktivitenin de anahtarıdır.” -John F. Kennedy
 
 ##   Calisthenics nedir?
+
+
 
 Calisthenics, antik yunanca kallos (güzel) ve sthenos (güç) kelimelerinin birleşimidir ve "güzel/estetik güç" gibi bir anlama gelmektedir. Vücut ağırlığı ile başladığınız bir spordur. Temel hareketleri barfiks, dip, squat ve şınavdır ve bu hareketler vücut ağırlığınız ile uygulanır (sonraları ağırlıklı varyasyonları tercih edilebilir). Bu sporu zevkli ve irade gerektirir kılan yanı ise limiti belirleyen kişinin siz olmanız (çoğu branşta olduğu gibi). Tam şu anda şınav çekmeye başlarsanız belki de %70 efordan sonra bırakacaksınız, ya da %100 enerjinizi verip tükenişe (failure) ulaşacaksınız. Calisthenics antrenmanlarının tükenişe gitme konusunda sınırı yoktur, hangi seviyede olursanız olun tam potansiyelinizi vererek, potansiyelinizi genişletebilirsiniz. Bu şekilde yaptığınız her antrenman bir irade testine dönüşecektir. Aynı zamanda birçok askeri eğitimin temelinde de calisthenics prensiplerini yatar ve bu spartalılara (belki de daha öncesine) kadar uzanır. Spartalıları unutmayın, onlar mental ve fiziksel güç olarak bizim aklımızdaki modelin hayalî olmayan versiyonlarıdır. Sadece deneyin ve acıyı tadın, dostunuzdur.
 
@@ -55,6 +59,8 @@ bunlar sıralanabilir fakat liste aslında çok uzun. Bu hareketlerin bazıları
 [(photo: Li Sun from Pexels)](https://www.pexels.com/@823sl)
 
 ## Bir diğer çok sevdiğimiz spor ise Powerlifting. Bu sporun 3 temel hareketi var:
+
+
 
 * Squat
 * Bench press
