@@ -12,7 +12,7 @@ type: post
 ---
 Calisthenics ( ya da daha genel anlamıyla vücut ağırlığı egzersizleri) başlangıç rehberine hoşgeldiniz. Bu rehber bodyweightfitness topluluğu tarafından hazırlanmış olup, benim tarafımdan türkçeye çevrilmiştir. 
 
-Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi. 
+Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese kolay gelsin.
 
 # Önerilen Rutine Hoşgeldiniz
 
