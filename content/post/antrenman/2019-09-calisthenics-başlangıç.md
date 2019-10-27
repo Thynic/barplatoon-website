@@ -10,7 +10,7 @@ authorDescription: reddit.com/r/bodyweightfitness
 image: /uploads/active-close-up-crossfit-workouts-2261476.jpg
 type: post
 ---
-Calisthenics ( ya da daha genel anlamıyla vücut ağırlığı egzersizleri) başlangıç rehberine hoşgeldiniz. Bu rehber bodyweightfitness topluluğu tarafından hazırlanmış olup, benim tarafımdan türkçeye çevrilmiştir. 
+Calisthenics (ya da daha genel anlamıyla vücut ağırlığı egzersizleri) başlangıç rehberine hoşgeldiniz. Bu rehber [bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/) topluluğu yöneticileri tarafından hazırlanmış ve benim tarafımdan sizler için Türkçe'ye çevrilmiştir. 
 
 Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese kolay gelsin.
 
@@ -55,7 +55,7 @@ Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese
 
 ## Güç Çalışması (40-60dk)
 
-### \    İlk Blok
+### İlk Blok
 
 * 3x5-8 [Barfiks Progression'u](/r/bodyweightfitness/wiki/exercises/pullup)
 * 3x5-8 [Squat Progression'u](/r/bodyweightfitness/wiki/exercises/squat)
