@@ -144,24 +144,21 @@ GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu 
 
 Böyle yapılması gerekiyor:
 
-
 İlk blok: Barfiks & Squat
-`Barfiks, 90s dinlenme, Squat, 90s dinlenme
-Barfiks, 90s dinlenme, Squat, 90s dinlenme
-Barfiks, 90s dinlenme, Squat, 90s dinlenme`
+`Barfiks, 90s dinlenme, Squat, 90s dinlenme`
 
+`Barfiks, 90s dinlenme, Squat, 90s dinlenme`\
+`Barfiks, 90s dinlenme, Squat, 90s dinlenme`
 
 İkinci blok: Dip & Hinge
 `Dip, 90s dinlenme, Hinge, 90s dinlenme
 Dip, 90s dinlenme, Hinge, 90s dinlenme
 Dip, 90s dinlenme, Hinge, 90s dinlenme`
 
-
 Üçüncü blok: Row & Şınav
 `Row, 90s dinlenme, Şınav, 90s dinlenme
 Row, 90s dinlenme, Şınav, 90s dinlenme
 Row, 90s dinlenme, Şınav, 90s dinlenme`
-
 
 Karın Üçlemesi
 `anti-extension, 60s dinlenme, anti-rotation, 60s dinlenme, extension, 60s dinlenme
