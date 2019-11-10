@@ -57,16 +57,16 @@ Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese
 
 ### İlk Blok
 
-* 3x5-8 [Barfiks Progression'u](/r/bodyweightfitness/wiki/exercises/pullup)
-* 3x5-8 [Squat Progression'u](/r/bodyweightfitness/wiki/exercises/squat)
+* 3x5-8 [Barfiks Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/pullup)
+* 3x5-8 [Squat Progression'u](https://www.reddit.com//r/bodyweightfitness/wiki/exercises/squat)
   Not: Barbell'a erişiminiz varsa (ve squat rack'e), [buraya tıklayarak squat progression'ları yerine barbell hareketlerini kullanmayı öğrenebilirsiniz.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018#wiki_barbell_squat_ve_deadlift_entegre_etmek) (aynı şekilde spor salonuna erişiminiz varsa [Jilet Antrenman Programı](https://www.barplatoon.com/jilet-antrenman-programı/)'na da göz atabilirsiniz.)
   ### İkinci Blok
-* 3x5-8 [Dip Progression'u](/r/bodyweightfitness/wiki/exercises/dip)
-* 3x5-8 [Hinge Progression'u](/r/bodyweightfitness/wiki/exercises/hinge) (glute bridge de uygundur)
+* 3x5-8 [Dip Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/dip)
+* 3x5-8 [Hinge Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/hinge) (glute bridge de uygundur)
   Not: Barbell'a erişiminiz varsa (ve squat rack'e), [buraya tıklayarak squat progression'ları yerine barbell hareketlerini kullanmayı öğrenebilirsiniz.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018#wiki_barbell_squat_ve_deadlift_entegre_etmek) (aynı şekilde spor salonuna erişiminiz varsa [Jilet Antrenman Programı](https://www.barplatoon.com/jilet-antrenman-programı/)'na da göz atabilirsiniz.)
   ### Üçüncü Blok
-* 3x5-8 [Row Progression'u](/r/bodyweightfitness/wiki/exercises/row)
-* 3x5-8 [Şınav progression'u](/r/bodyweightfitness/wiki/exercises/pushup)
+* 3x5-8 [Row Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/row)
+* 3x5-8 [Şınav progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/pushup)
   ### Karın Üçlemesi
 * 3x8-12 [Anti-Extension Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-extension)
 * 3x8-12 [Anti-Rotation Progression'u](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation)
