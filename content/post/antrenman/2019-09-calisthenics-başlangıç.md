@@ -103,45 +103,43 @@ Ama yine de zaman ayıramadıysanız, kötünün-iyisi olarak uygulayabileceğin
   "Antrenman setlerinize" girmeden önce daha düşük bir ağırlıkla ısınmanız iyi olur: önce bara ağırlık eklemeden birkaç tekrar yapın, sonra biraz ağırlık ekleyin ve birkaç tekrar daha yapın (daha az), sonra biraz daha ağırlık ekleyin ve birkaç tekrar daha yapın (daha daha az). Çalışacağınız ağırlığa gelinceye kadar bu şekil devam edin (2-3 set yeterli olacaktır).
   İlk ağırlığınız seçmek için: sadece bar ile başlayın. Sonra yavaş yavaş ağırlığı arttırın (formunuz bozulmadığı sürece devam edin). Her antrenmanda ağırlığı arttırmaya çalışın. (hatırlatma: formunuz bozuluyorsa o ağırlık size göre değildir, size uygun bir ağırlık seçin).
 
-**Hareketlerin sıralamasını değiştirebiliyor muyuz?**
+**Hareketlerin sıralamasını değiştirebiliyor muyuz?**\
 Evet, ısınmayı ısınma kısmında, güç çalışmasını da güç çalışması kısmında bıraktığınız sürece.
 
-**Ne zaman orta seviye bir rutine geçebilirim?**
+**Ne zaman orta seviye bir rutine geçebilirim?**\
 Diyetiniz, beslenmeniz ve stres seviyeniz normal olduğu halde uzun zamandır (birkaç hafta) plato'da iseniz (gelişiminiz durduysa) daha zor bir rutine geçebilirsiniz. Progression'lar size kolay geliyorsa da geçebilirsiniz. Ya da geçesiniz geldiyse, ama bu iyi bir karar olmayabilir.
 Hangi orta seviye rutini yapmanız gerektiğine gelirsek, bu hedeflerinize göre değişecektir. Eğer hedeflerinizin neler olduğundan henüz emin değilseniz, onlar hakkında düşünmeye başlasanız iyi olur! Vücut ağırlığı çalışmaları çok çeşitlidir, ve bu rutin size çoğu çeşit için sağlam bir temel inşa edecektir. Kendi orta seviye rutininizi oluşturmanızı öneriyoruz. Bunun hakkındaki kısa rehbere \[buradan](http://www.reddit.com/r/bodyweightfitness/wiki/training_guide#wiki_developing_an_intermediate_routin ulaşabilirsiniz.
 
-**Bunu her gün yapabilir miyim?**
+**Bunu her gün yapabilir miyim?**\
 Hayır. Eğer o şekilde daha iyi olsaydı, bu rutini haftada 3 gün olacak şekilde hazırlamazdık. Daha fazla detay için, [bu sayfaya](http://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F) göz atın.
 
-**Ne zaman sonuç almaya başlarım?**
+**Ne zaman sonuç almaya başlarım?**\
 Hareketleri uygulama yeteneğinize göre değişebilmekle birlikte 2-3 antrenman sonrasında sonuçları görmeye başlarsınız. Fiziğinizdeki gelişimi, 4-6 hafta sonra kendiniz görebilirsiniz, başkasının fark etmesi 12 hafta kadar sürecektir. Diyetinizin düzende olduğundan emin olun.
 
-**Kol ve omuz çalışmaları nerede?**
+**Kol ve omuz çalışmaları nerede?**\
 Kollarını kullanmadan şınav, row, dip ve barfiks nasıl yapmayı düşünüyorsun? Ciddi misin? Güç çalışması kısmındaki her hareket bileşik egzersiz, yani birden fazla kas grubu çalışıyor. Çoğu vücut ağırlığı egzersizi bileşiktir, (izole değildir). Şınav ve dip hareketleri triceps ve göğüs kaslarını çalıştırır. Barfiks ve row ise üst sırt (kanat vb.), biceps ve bilek (forearm) kaslarını çalıştırır. Bileklerinizi (forearm) daha fazla çalıştırmak istiyorsanız /r/griptraining topluluğuna göz atın.
 Hangi egzersizde hangi kasların çalıştığını ve neden çalıştıklarını daha detaylı öğrenmek istiyorsanız, [bu sayfayı](https://www.reddit.com/r/bodyweightfitness/comments/5ipiyd/trying_to_find_a_detailed_breakdown_of_reasoning/) okuyun.
 
-**Bu rutine XYZ değişikliklerini yapabilir miyim?**
+**Bu rutine XYZ değişikliklerini yapabilir miyim?**\
 İstediğiniz değişiklikleri yapabilirsiniz, ama herkes için iyi olabilecek bir değişiklik olsaydı, biz çoktan eklemiş olurduk. Bu rutin, birkaç sebepten dolayı bu şekilde ayarlandı ve bu sebepler burada açıklanamayacak kadar karışık. Eğer ne yaptığınızdan emin değilseniz, yazılan şekilde uygulamaya devam edin. Rutinin neden bu şekilde ayarlandığı hakkındaki detayları merak ediyorsanız, [Konsept Çarşamba'sındaki](https://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday) Temel Programlama Prensiplerini okuyabilirsiniz.
 Buna da göz atabilirsiniz: [Yeni Başlayanlar Neden Önerilen Rutinde Değişiklik Yapmamalı?](https://www.reddit.com/r/bodyweightfitness/comments/41wffd/fyi_for_beginners_do_not_attempt_to_modify_the/) ve [Egzersizleri çok fazla değiştirmek neden kötü bir fikir?](https://www.reddit.com/r/bodyweightfitness/comments/4oddzi/why_switching_up_your_exercises_a_lot_is_a_bad/)\*\*\*\*
 
-**Çok Kolay geldi! Bir şeyi mi yanlış yapıyorum?**
+**Çok Kolay geldi! Bir şeyi mi yanlış yapıyorum?**\
 Biraz zaman tanı. 3 set 8 tekrar için en zor progression'ları yaptığından emin ol. Bunu anlamak başta biraz zaman gerektirebilir, bu yüzden değiştirmek yerine birkaç hafta daha devam et ve sonra tekrar düşün.
 
-**Startbodyweight rutini mi daha iyi yoksa bu mu?**
+**Startbodyweight rutini mi daha iyi yoksa bu mu?**\
 Genel görüşe göre Startbodyweight rutini güç, hipertrofi ve yağ yakımı için sağlam bir rutin (diyetiniz düzendeyse), yani çok da fark etmez, birini seç ve _uygula_. İkisini de uygulamıyorsanız kararsızlık size zaman kaybettirir.
 [Bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
 
-**GymnasticBodies Foundation programı mı daha iyi yoksa bu mu?**
+**GymnasticBodies Foundation programı mı daha iyi yoksa bu mu?**\
 GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu senin vermen gereken bir karar. Program hakkındaki incelememizi [burada](https://www.reddit.com/r/bodyweightfitness/wiki/program_reviews/gb_foundation) bulabilirsin. (biraz eski olabilir). Foundation ile bizim rutinimizi daha detaylı karşılaştıran birkaç bağlantı: [bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), ve bir de /u/FatManDan'in [Foundation Serisinde Yavaş Gelişmenin Sebepleri](http://www.reddit.com/r/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/r/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) yazısını okuyun.
 
-**Peki Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / vesaire nasıldır?**
+**Peki Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / vesaire nasıldır?**\
+Benzer ya da daha farklı fitness programları hakkındaki incelemelerimizi içeren rehberimize [buradan](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews) ulaşabilirsiniz.
 
-* Benzer ya da daha farklı fitness programları hakkındaki incelemelerimizi içeren rehberimize [buradan](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews) ulaşabilirsiniz.
-
-**Bu mükemmel, ama bana daha çok skill odaklı bir program lazım. Elinizde bana uygun bir şeyler var mı?**
-
-* [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.
-* ([Amaca Uygun Programlama](https://www.barplatoon.com/amaca-uygun-programlama/) ile ilgili yazımız da şuralarda bi' yerlerde olacaktı/yakında olacak. Kendinize uygun programı oluşturabilirsiniz.)
+**Bu mükemmel, ama bana daha çok skill odaklı bir program lazım. Elinizde bana uygun bir şeyler var mı**[\
+Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.\
+([Amaca Uygun Programlama](https://www.barplatoon.com/amaca-uygun-programlama/) ile ilgili yazımız da şuralarda bi' yerlerde olacaktı/yakında olacak. Kendinize uygun programı oluşturabilirsiniz.)
 
 **Her egzersiz arasında 90 saniye mi dinlenmeliyim?/Bloklar kısmı kafamı karıştırdı.**
 
