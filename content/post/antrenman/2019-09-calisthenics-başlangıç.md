@@ -141,6 +141,7 @@ GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu 
 **Bu mükemmel, ama bana daha çok skill odaklı bir program lazım. Elinizde bana uygun bir şeyler var mı?**
 
 * [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.
+* ([Amaca Uygun Programlama](https://www.barplatoon.com/amaca-uygun-programlama/) ile ilgili yazımız da şuralarda bi' yerlerde olacaktı/yakında olacak. Kendinize uygun programı oluşturabilirsiniz.)
 
 **Her egzersiz arasında 90 saniye mi dinlenmeliyim?/Bloklar kısmı kafamı karıştırdı.**
 
@@ -176,7 +177,7 @@ Karın Üçlemesi\
 
 # Kaynaklar
 
-[Özet Yönergeler](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view?usp=sharing), teşekkürler /u/scienner![\
+[Özet Yönergeler](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view?usp=sharing), teşekkürler /u/scienner![
 Spreadsheet/Antrenman Günlüğü](https://docs.google.com/spreadsheets/d/1M5zmwoW73Bi7qHlmtXLdg_lKuhbjlKZrqt4cMFRaxVQ/edit#gid=0), /u/BaronMyrtle tarafından hazırlandı.[\
 Android Uygulaması](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp), u/Endlosband tarafından hazırlandı.
 
