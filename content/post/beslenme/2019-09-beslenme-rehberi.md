@@ -1,6 +1,6 @@
 ---
 title: Beslenme Rehberi
-date: 2019-11-10T14:53:37.769Z
+date: 2019-11-10T10:53:00.000Z
 draft: false
 tags:
   - beslenme
