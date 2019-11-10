@@ -1,7 +1,7 @@
 ---
 title: Calisthenics Başlangıç
 date: 2019-09-05T16:21:42.973Z
-draft: true
+draft: false
 tags:
   - antrenman
 author: /r/bodyweightfitness
@@ -62,7 +62,7 @@ Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese
   Not: Barbell'a erişiminiz varsa (ve squat rack'e), [buraya tıklayarak squat progression'ları yerine barbell hareketlerini kullanmayı öğrenebilirsiniz.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018#wiki_barbell_squat_ve_deadlift_entegre_etmek) (aynı şekilde spor salonuna erişiminiz varsa [Jilet Antrenman Programı](https://www.barplatoon.com/jilet-antrenman-programı/)'na da göz atabilirsiniz.)
   ### İkinci Blok
 * 3x5-8 [Dip Progression'u](/r/bodyweightfitness/wiki/exercises/dip)
-* 3x5-8 [Hinge Progression'u](/r/bodyweightfitness/wiki/exercises/hinge)
+* 3x5-8 [Hinge Progression'u](/r/bodyweightfitness/wiki/exercises/hinge) (glute bridge de uygundur)
   Not: Barbell'a erişiminiz varsa (ve squat rack'e), [buraya tıklayarak squat progression'ları yerine barbell hareketlerini kullanmayı öğrenebilirsiniz.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018#wiki_barbell_squat_ve_deadlift_entegre_etmek) (aynı şekilde spor salonuna erişiminiz varsa [Jilet Antrenman Programı](https://www.barplatoon.com/jilet-antrenman-programı/)'na da göz atabilirsiniz.)
   ### Üçüncü Blok
 * 3x5-8 [Row Progression'u](/r/bodyweightfitness/wiki/exercises/row)
