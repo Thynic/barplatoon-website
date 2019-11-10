@@ -174,11 +174,11 @@ Karın Üçlemesi\
 
 # Kaynaklar
 
-[Özet Yönergeler](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view?usp=sharing), teşekkürler /u/scienner!
-[Spreadsheet/Antrenman Günlüğü](https://docs.google.com/spreadsheets/d/1M5zmwoW73Bi7qHlmtXLdg_lKuhbjlKZrqt4cMFRaxVQ/edit#gid=0), /u/BaronMyrtle tarafından hazırlandı.
-[Android Uygulaması](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp), u/Endlosband tarafından hazırlandı.
+[Özet Yönergeler](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view?usp=sharing), teşekkürler /u/scienner![\
+Spreadsheet/Antrenman Günlüğü](https://docs.google.com/spreadsheets/d/1M5zmwoW73Bi7qHlmtXLdg_lKuhbjlKZrqt4cMFRaxVQ/edit#gid=0), /u/BaronMyrtle tarafından hazırlandı.[\
+Android Uygulaması](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp), u/Endlosband tarafından hazırlandı.
 
-**Çeviriler**
+**Çeviriler**\
 Eğer bu sayfanın çevirisini göndermek istiyorsanız aşağıdaki "view-source" seçeneğini temel alın. Bizi haberdar etmek ve yardım almak için [moderatörlere mesaj atın](https://www.reddit.com/message/compose?to=/r/bodyweightfitness).
 
 * [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_jp), teşekkürler /u/mthinderaker ve Ishida Koa
@@ -186,8 +186,8 @@ Eğer bu sayfanın çevirisini göndermek istiyorsanız aşağıdaki "view-sourc
 * [Tiếng Việt](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_vn), teşekkürler Big Hat Logan
 * [Português Brasileiro](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_portuguese_br), (Tradução em Progresso! / Çeviri Yolda!)
 
-**Önceki Çeviriler**
-[Önerilen Rutin 2017](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017) çevirileri aşağıdadır:
+**Önceki Çeviriler**[\
+Önerilen Rutin 2017](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017) çevirileri aşağıdadır:
 
 * [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_japanese), teşekkürler "mth" (anonim kalmak istedi)
 * [中文](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_chinese), teşekkürler /u/Squid4Hire
