@@ -7,7 +7,7 @@ tags:
 author: /r/bodyweightfitness
 authorAvatar: /uploads/bwf.png
 authorDescription: reddit.com/r/bodyweightfitness
-image: /uploads/active-close-up-crossfit-workouts-2261476.jpg
+image: /uploads/active-948798_1280.jpg
 type: post
 ---
 Calisthenics (ya da daha genel anlamıyla vücut ağırlığı egzersizleri) başlangıç rehberine hoşgeldiniz. Bu rehber [bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/) topluluğu yöneticileri tarafından hazırlanmış ve benim tarafımdan sizler için Türkçe'ye çevrilmiştir. 
