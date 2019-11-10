@@ -141,19 +141,28 @@ GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu 
 * [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.
 
 **Her egzersiz arasında 90 saniye mi dinlenmeliyim?/Bloklar kısmı kafamı karıştırdı.**
+
 Böyle yapılması gerekiyor:
+
+
 İlk blok: Barfiks & Squat
 `Barfiks, 90s dinlenme, Squat, 90s dinlenme
 Barfiks, 90s dinlenme, Squat, 90s dinlenme
 Barfiks, 90s dinlenme, Squat, 90s dinlenme`
+
+
 İkinci blok: Dip & Hinge
 `Dip, 90s dinlenme, Hinge, 90s dinlenme
 Dip, 90s dinlenme, Hinge, 90s dinlenme
 Dip, 90s dinlenme, Hinge, 90s dinlenme`
+
+
 Üçüncü blok: Row & Şınav
 `Row, 90s dinlenme, Şınav, 90s dinlenme
 Row, 90s dinlenme, Şınav, 90s dinlenme
 Row, 90s dinlenme, Şınav, 90s dinlenme`
+
+
 Karın Üçlemesi
 `anti-extension, 60s dinlenme, anti-rotation, 60s dinlenme, extension, 60s dinlenme
 anti-extension, 60s dinlenme, anti-rotation, 60s dinlenme, extension, 60s dinlenme
