@@ -40,7 +40,9 @@ Program ile ilgili ihtiyacınızdan daha fazla bilgi aşağıda verildi, herkese
 
 # Antrenman Buradan Başlıyor:
 
-## Isınma: Dinamik Esnemeler (5-10dk)
+## Isınma:
+
+## Dinamik Esnemeler (5-10dk)
 
 | Tekrar | Hareket                                                                                              | Yorumlar                                                                                                                                                            |
 | ------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
