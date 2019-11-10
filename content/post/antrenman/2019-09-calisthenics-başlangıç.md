@@ -134,19 +134,23 @@ Temel süreç şöyle işliyor:
 
 * Biraz zaman tanı. 3 set 8 tekrar için en zor progression'ları yaptığından emin ol. Bunu anlamak başta biraz zaman gerektirebilir, bu yüzden değiştirmek yerine birkaç hafta daha devam et ve sonra tekrar düşün.
 
-**Startbodyweight rutini mi daha iyi yoksa bu mu?**\
-Genel görüşe göre Startbodyweight rutini güç, hipertrofi ve yağ yakımı için sağlam bir rutin (diyetiniz düzendeyse), yani çok da fark etmez, birini seç ve _uygula_. İkisini de uygulamıyorsanız kararsızlık size zaman kaybettirir.
-[Bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
+**Startbodyweight rutini mi daha iyi yoksa bu mu?**
 
-**GymnasticBodies Foundation programı mı daha iyi yoksa bu mu?**\
-GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu senin vermen gereken bir karar. Program hakkındaki incelememizi [burada](https://www.reddit.com/r/bodyweightfitness/wiki/program_reviews/gb_foundation) bulabilirsin. (biraz eski olabilir). Foundation ile bizim rutinimizi daha detaylı karşılaştıran birkaç bağlantı: [bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), ve bir de /u/FatManDan'in [Foundation Serisinde Yavaş Gelişmenin Sebepleri](http://www.reddit.com/r/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/r/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) yazısını okuyun.
+* Genel görüşe göre Startbodyweight rutini güç, hipertrofi ve yağ yakımı için sağlam bir rutin (diyetiniz düzendeyse), yani çok da fark etmez, birini seç ve _uygula_. İkisini de uygulamıyorsanız kararsızlık size zaman kaybettirir.
+  [Bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
 
-**Peki Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / vesaire nasıldır?**\
-Benzer ya da daha farklı fitness programları hakkındaki incelemelerimizi içeren rehberimize [buradan](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews) ulaşabilirsiniz.
+**GymnasticBodies Foundation programı mı daha iyi yoksa bu mu?**
 
-**Bu mükemmel, ama bana daha çok skill odaklı bir program lazım. Elinizde bana uygun bir şeyler var mı?**[\
-Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.\
-([Amaca Uygun Programlama](https://www.barplatoon.com/amaca-uygun-programlama/) ile ilgili yazımız da şuralarda bi' yerlerde olacaktı/yakında olacak. Kendinize uygun programı oluşturabilirsiniz.)
+* GymnasticBodies serisinin bizimkilere göre çok farklı bir stili var, yani bu senin vermen gereken bir karar. Program hakkındaki incelememizi [burada](https://www.reddit.com/r/bodyweightfitness/wiki/program_reviews/gb_foundation) bulabilirsin. (biraz eski olabilir). Foundation ile bizim rutinimizi daha detaylı karşılaştıran birkaç bağlantı: [bağlantı 1](https://www.reddit.com/r/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [bağlantı 2](https://www.reddit.com/r/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), ve bir de /u/FatManDan'in [Foundation Serisinde Yavaş Gelişmenin Sebepleri](http://www.reddit.com/r/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/r/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) yazısını okuyun.
+
+**Peki Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / vesaire nasıldır?**
+
+* Benzer ya da daha farklı fitness programları hakkındaki incelemelerimizi içeren rehberimize [buradan](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews) ulaşabilirsiniz.
+
+**Bu mükemmel, ama bana daha çok skill odaklı bir program lazım. Elinizde bana uygun bir şeyler var mı?**
+
+* [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programımıza bir göz at. Bu program seni güçlendirirken aynı zamanda motor becerilerini ve dengeni geliştirmene de yardımcı olacak. Eğer güç çalışmasını önemsemiyorsan, [Skill Günü Rutini'mize](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday_turkish) göz at.
+* ([Amaca Uygun Programlama](https://www.barplatoon.com/amaca-uygun-programlama/) ile ilgili yazımız da şuralarda bi' yerlerde olacaktı/yakında olacak. Kendinize uygun programı oluşturabilirsiniz.)
 
 **Her egzersiz arasında 90 saniye mi dinlenmeliyim?/Bloklar kısmı kafamı karıştırdı.**
 
