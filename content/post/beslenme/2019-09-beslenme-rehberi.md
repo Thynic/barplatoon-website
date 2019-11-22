@@ -1,7 +1,7 @@
 ---
 title: Beslenme Rehberi
 date: 2019-11-10T10:53:00.000Z
-draft: false
+draft: true
 tags:
   - beslenme
 author: Bar Platoon
