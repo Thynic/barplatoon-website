@@ -1,7 +1,7 @@
 ---
 title: Beslenme Rehberi
-date: 2019-09-05T14:53:37.769Z
-draft: false
+date: 2019-11-10T10:53:00.000Z
+draft: true
 tags:
   - beslenme
 author: Bar Platoon
@@ -10,4 +10,4 @@ authorDescription: '@barplatoon'
 image: /uploads/animal-black-and-white-lion-4260.jpg
 type: post
 ---
-01.11.19
+01.12.19
