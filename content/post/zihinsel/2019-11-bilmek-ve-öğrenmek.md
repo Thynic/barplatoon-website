@@ -10,6 +10,8 @@ authorDescription: tw@kmxtnc
 image: /uploads/img-20191201-wa0005.jpg
 type: post
 ---
+BİLMEK Mİ, ÖĞRENMEK Mİ?
+
 Bilmek, bilmek seviyesine ulaşmak isteyenler için zararlıdır. Çünkü bilme seviyesine ulaşmak insan için intihar manasına gelebilir. Bu intihar, insanın gelişimini öldüren bir intihardır. Bu yüzden bilmek eylemini icra ederken biliyorum demek insanın kendi önüne koyduğu bir taştır.
 
 Tabii bilmek eyleminin zararlarından önce bilmek eyleminin içeriğini incelememiz gerekir. Bilmek eylemi herkes için aynı şeyi ifade etmez. Kimileri için bilmek bir şeyi tamı tamına öğrenmek iken kimileri için her şeyi öğrenmektir. 
@@ -26,7 +28,7 @@ Bu diğer kültürlere açık ve önyargılı olmama mevzusunu sağlama almak i�
 
 Lakin bu durumda hemen “masumuz” düşüncesi aklımıza düşmesin. Yabancılar her ne kadar önyargılı ise biz de o kadar önyargılıyız kültürümüze. Bunun sebebi tabii ki kültürümüzü noksansız bir şekilde bilmektir. Müzik alanında örnek vererek devam edelim. Yazıldığı üzere Metal müzik türünde müzik üreten gruplarımız var. Lakin bizler kültürümüze karşı önyargılarımızdan daha doğrusu kültürümüzü bilmemizden dolayı “Metal Müzik” dendiği anda Amerika veya İngiltere çıkışlı grupları gündeme getiririz.
 
-	Bilmek ve öğrenmek arasındaki farkları bir nebze belirttikten sonra üzerine düşünmemiz gereken husus “öğrenme”nin bizlere ileri safhada neler kattığıdır. Gelişmek.
+Bilmek ve öğrenmek arasındaki farkları bir nebze belirttikten sonra üzerine düşünmemiz gereken husus “öğrenme”nin bizlere ileri safhada neler kattığıdır. Gelişmek.
 
 “Gelişmek” sıradan bir başlık, isim gibi durabilir lakin “gelişmek” kelimesinin olmadığı yerde mutlak bir şekilde sıkıntı doğar. Ve bu sıkıntı bazen insanların ölümüne, devletlerin yok oluşuna sebep olur. Nasıl öğrenmek düşünmek ile gerçekleşiyorsa gelişmek de öğrenilen üzerine düşünmek ile gerçekleşir. Hatta “gelişim” üzerine bir felsefe dahi vardır. Kaizen Felsefesi. Her gün, bir önceki günden %1 daha iyi olmak. Yani bir şeylerin üstüne her gün bir şeyler katmak. Peki bu nasıl olabilir? Tabii ki “öğrenmek” ile. Bunu “bilmek” ile yapabilir miyiz? Tabii ki yapamayız. Neden yapamayacağımızı bilmek istiyor isek yapmamız gereken tek şey son yüzyılda kaybettiklerimize bir dönüp bakmaktır.
 
