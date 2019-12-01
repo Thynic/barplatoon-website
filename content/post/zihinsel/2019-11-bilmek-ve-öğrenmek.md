@@ -1,5 +1,5 @@
 ---
-title: 'Bilmek mi, Öğrenmek mi?'
+title: Bilmek ve Öğrenmek
 date: 2019-11-22T16:15:51.906Z
 draft: false
 tags:
