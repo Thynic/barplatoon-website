@@ -1,5 +1,5 @@
 ---
-title: 'Stoik Felsefe - Zihin Kontrolü '
+title: Stoik Felsefe - Odakta Seçicilik
 date: 2019-09-05T12:46:06.956Z
 draft: false
 tags:
