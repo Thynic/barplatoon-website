@@ -1,7 +1,7 @@
 ---
 title: Güç ve Farkındalık
 date: 2019-12-29T09:34:00.000Z
-draft: false
+draft: true
 tags:
   - zihinsel
   - farkındalık
