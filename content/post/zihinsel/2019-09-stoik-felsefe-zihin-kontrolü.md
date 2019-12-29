@@ -1,17 +1,18 @@
 ---
-title: 'Stoik Felsefe - Zihin Kontrolü '
+title: Stoik Felsefe - Odakta Seçicilik
 date: 2019-09-05T12:46:06.956Z
 draft: false
 tags:
   - zihinsel
   - stoik
+  - odak
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
 authorDescription: '@thynicbutstronger'
 image: /uploads/backlit-clouds-dawn-415380.jpg
 type: post
 ---
-\-
+.
 
   Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180).
 
@@ -27,13 +28,11 @@ type: post
 
 > “Zihnin üzerinde güç sahibisin -dış etkenler üzerinde değil. Bunu farkedersen gücü bulacaksın.” -Marcus Aurelius
 
-![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote")
-[(photo: @dailystoic)](https://www.instagram.com/dailystoic)
+![marcus-aurelius-quote](/uploads/power.jpeg "marcus-aurelius-quote") [(photo: @dailystoic)](https://www.instagram.com/dailystoic)
 
 > “Kışın ortasında, içimde yenilmez bir yaz buldum.” -Albert Camus
 
-![albert-camus-quote](/uploads/summer.png "albert-camus-quote")
-[(photo: @theinvincibleway) ](https://www.instagram.com/theinvincibleway/) 
+![albert-camus-quote](/uploads/summer.png "albert-camus-quote") [(photo: @theinvincibleway) ](https://www.instagram.com/theinvincibleway/)
 
   Görüldüğü üzere, bu felsefe bize odağımızı değiştirerek gereksiz düşüncelerden arınmayı, zaman kaybını önlemeyi ve sadece gelişime odaklanmayı öneriyor. Karşılığında vermeniz gereken en önemli şey zihniniz üzerinde kontrolü ele geçirmenizdir. Olay, kontrolünüzde olanlardan maksimum faydayı görmek ve kontrolünüzde olmayanları o şekil bırakmaksa, en önemli parçanız olan zihniniz üzerindeki kontrolünüzü arttırmak da bu düşünce sisteminin size kazandıracaklarını maksimuma yaklaştırmanız demektir. 
 
@@ -45,8 +44,7 @@ type: post
 
 > “Rastgele hareketleri bırak. Hiçbir hareketin altta yatan prensiplerden bağımsız gerçekleşmemeli.” -Marcus Aurelius 
 
-![marcus-aurelius-quote](/uploads/underlying.png "marcus-aurelius-quote")
-[(photo: @stoicgorilla)](https://www.instagram.com/stoicgorilla)
+![marcus-aurelius-quote](/uploads/underlying.png "marcus-aurelius-quote") [(photo: @stoicgorilla)](https://www.instagram.com/stoicgorilla)
 
 > “Hareketlerinin sebeplerini bilmeden, iyi mi yoksa kötü mü davrandıklarını nasıl bilebilirsin?” - Epictetus
 
