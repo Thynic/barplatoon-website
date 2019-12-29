@@ -12,7 +12,7 @@ authorDescription: '@thynicbutstronger'
 image: /uploads/backlit-clouds-dawn-415380.jpg
 type: post
 ---
-\-
+.
 
   Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180).
 
@@ -32,7 +32,7 @@ type: post
 
 > “Kışın ortasında, içimde yenilmez bir yaz buldum.” -Albert Camus
 
-![albert-camus-quote](/uploads/summer.png "albert-camus-quote") [(photo: @theinvincibleway) ](https://www.instagram.com/theinvincibleway/) 
+![albert-camus-quote](/uploads/summer.png "albert-camus-quote") [(photo: @theinvincibleway) ](https://www.instagram.com/theinvincibleway/)
 
   Görüldüğü üzere, bu felsefe bize odağımızı değiştirerek gereksiz düşüncelerden arınmayı, zaman kaybını önlemeyi ve sadece gelişime odaklanmayı öneriyor. Karşılığında vermeniz gereken en önemli şey zihniniz üzerinde kontrolü ele geçirmenizdir. Olay, kontrolünüzde olanlardan maksimum faydayı görmek ve kontrolünüzde olmayanları o şekil bırakmaksa, en önemli parçanız olan zihniniz üzerindeki kontrolünüzü arttırmak da bu düşünce sisteminin size kazandıracaklarını maksimuma yaklaştırmanız demektir. 
 
