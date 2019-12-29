@@ -12,8 +12,6 @@ authorDescription: '@thynicbutstronger'
 image: /uploads/fantasy-2824304_1280.jpg
 type: post
 ---
-\-
-
 Sorsanız çoğu kişi çoban köpeği olmayı koyun olmaya yeğler, evet koyundansa çoban köpeği olmak daha mantıklı; fakat bir ayı ile karşılaştırıldığında çoban köpeği yeterli olur mu?
 
 İşte bizim gibi milattan öncesi ile uzay çağı arasında arafta kalmış toplumların en büyük problemlerinden birisi budur: ortalamanın üstünde olmayı, ya da en azından kendini çoğunluktan farklı hissettirecek bir seviyeyi kendine yeterli görmek, ve daha fazla güçlenememek. O anki ortamda güçlü ve güvende hissedilebilir, fakat kendi farklı ortamlarının ortalamasının üstünde olan kişilerle karşılaşıldığında hala aynı seviyede kalmak iyi bir fikir olmayacaktır, ve muhtemelen de artık ‘sahte’ bir şekilde iyi hissettirmeyecektir.
