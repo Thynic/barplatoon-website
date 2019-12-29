@@ -5,6 +5,7 @@ draft: true
 tags:
   - zihinsel
   - farkındalık
+  - odak
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
 authorDescription: '@thynicbutstronger'
