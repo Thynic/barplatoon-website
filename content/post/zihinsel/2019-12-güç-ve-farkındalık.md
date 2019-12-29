@@ -20,7 +20,7 @@ Sorsanız çoğu kişi çoban köpeği olmayı koyun olmaya yeğler, evet koyund
 
 Burada devreye “dış farkındalık” giriyor. Kişinin kendisini, bulunduğu ortama daha uygun ve daha güçlü hale getirmesi için ilk önce ortam hakkında bilgi sahibi olması gerekir. Daha ileri bir güç için ise kendi ortamının da dışını fark etmelidir. Bu seviyeye de ulaştığında daha da dışarısını. Bu süreç bu şekilde devam eder ve kişi sürekli kendinden daha güçlü kişileri, kaldırabileceğinden ağır yükleri görür. Bu da onu güçlü olmaya teşvik eder. Ortalamanın üstünü yeterli sanma ve güçsüzlük durumlarının en yüzeysel sebebi “dış farkındalık” eksikliğidir, bu da çoğunlukla bilgi eksikliği ya da odak sapmasından kaynaklanır.
 
-![soren](/uploads/miyamoto.png "soren")
+![soren](/uploads/sketch-1577613462520.png "soren")
 
 Kutuplarda donarak ölmemek için ilk önce kutupların soğuk olduğunu fark etmek gerekir, daha sonra bu sorunun çözümünün vücut ısısını yükseltmek olduğu anlaşılır ve daha kalın giyinilir. Fakat kutupların soğuk olduğunu anlayacak duyulara sahip olunmazsa, kişi sorunu bilemez, çözüm üretemez ve bir süre sonra donarak ölür. Bu duyular her insanda bulunur, keza havanın soğuk olduğunu anlayabilmek insan yetenekleri çerçevesinde. Fakat alkol gibi dış etmenlerle bu duyular zayıflatılabilir. Kişi üşüdüğünü fark edemez, önlem alamaz, ve donarak ölür. Bilgi edinme kısmı burada hava durumunu öğrenmektir, odak saptıran etmen ise alkoldür; kişinin, ‘doğru’ bir bilgi olan havanın soğuk olması bilgisine değil de, ‘sahte’ olan, ‘kendini iyi hissetme’ bilgisine odaklanmasına yol açar.
 
