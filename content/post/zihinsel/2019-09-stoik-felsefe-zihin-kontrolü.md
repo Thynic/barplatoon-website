@@ -12,9 +12,7 @@ authorDescription: '@thynicbutstronger'
 image: /uploads/backlit-clouds-dawn-415380.jpg
 type: post
 ---
-.
-
-  Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180).
+Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180).
 
   Bu felsefeyi ortaya çıkaran temel görüş, sadece kontrol edilebilecek şeylere odaklanmak ve diğerlerini olduğu gibi kabul etmektir. Örneğin fiziksel bir özellik hoşa gitmiyorsa ve değişmesi için yapılabilecek bir şey yoksa, o özellik olduğu gibi kabul edilmelidir. Örneğin boyunun kısa olması durumunda hiçbir şekilde bu kusuru büyük ölçüde yok edemezsin. Trapezleri büyütmek, postürü düzeltmek gibi çözüm yolları izlenebilir fakat yine de büyük ölçülerde farklar yaratmayacaklardır. Elden gelen tek şey trapezleri büyütmek ve postürü düzeltmekse onların yapılmasında bu felsefe açısından bir sakınca yoktur. Fakat bunlar yapıldıktan sonra kalan kısım, olduğu gibi kabul edilmelidir. Çünkü elden gelen her şey yapılmıştır. Eğer bu örnekten farklı olarak elden hiçbir şey gelmiyorsa da direkt olduğu gibi kabul edilmelidir. Yaşlanmayı durduramazsın, geçmişi değiştiremezsin. Bu gibi durumlarda kontrolünde olan tek şey ilerisidir ve geçmişte yaşamak yerine geleceğe odaklanmak en mantıklısı ve bu felsefeye de en uygunudur. Geçmiş ve gelecek örneği aslında bu düşünce sistemini yeterince özetliyor, fakat daha saydam bir kavrayış sağlamakta fayda var. 
 
