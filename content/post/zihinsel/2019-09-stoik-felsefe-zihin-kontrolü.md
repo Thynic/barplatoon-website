@@ -12,7 +12,7 @@ authorDescription: '@thynicbutstronger'
 image: /uploads/backlit-clouds-dawn-415380.jpg
 type: post
 ---
-.
+\-
 
   Bu felsefenin çıkış noktası antik zamanlardır. En orijinal uygulayıcılarından biri ise Marcus Aurelius’tur (m.s. 121- m.s. 180).
 
