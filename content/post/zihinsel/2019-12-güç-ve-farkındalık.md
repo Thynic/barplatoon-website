@@ -12,7 +12,7 @@ authorDescription: '@thynicbutstronger'
 image: /uploads/fantasy-2824304_1280.jpg
 type: post
 ---
-.
+\-
 
 Sorsanız çoğu kişi çoban köpeği olmayı koyun olmaya yeğler, evet koyundansa çoban köpeği olmak daha mantıklı; fakat bir ayı ile karşılaştırıldığında çoban köpeği yeterli olur mu?
 
