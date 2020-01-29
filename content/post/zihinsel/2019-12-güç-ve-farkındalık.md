@@ -1,6 +1,6 @@
 ---
 title: Güç ve Farkındalık
-date: 2019-12-29T09:34:00.000Z
+date: 2020-01-28T09:34:00.000Z
 draft: false
 tags:
   - zihinsel
