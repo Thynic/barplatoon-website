@@ -4,6 +4,7 @@ date: 2019-11-22T16:15:51.906Z
 draft: false
 tags:
   - zihinsel
+  - öğrenmek
 author: Tarık E. Karagül
 authorAvatar: /uploads/img-20191201-wa0008.jpg
 authorDescription: tw@kmxtnc
