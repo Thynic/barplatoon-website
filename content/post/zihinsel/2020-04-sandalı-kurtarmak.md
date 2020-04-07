@@ -10,7 +10,7 @@ tags:
 author: Tarık E. Karagül
 authorAvatar: uploads/IMG-20191201-WA0008.jpg
 authorDescription: tw@kmxtnc
-image: uploads/boat.jpg
+image: uploads/boat.png
 type: post
 ---
 Hayat tamamlanması gereken bir yapbozdur. Yapbozun parçaları ise insanın elindedir. Parçalar bir araya getirilmeden hayat sonlanır ise bu sadece ömür tüketmek ya da ömrü geçirmek olur. Bizlere düşen görev ise parçaları tamamlamak yani **yaşamaktır**.
