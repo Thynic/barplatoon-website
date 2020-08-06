@@ -1,4 +1,4 @@
-## Buradan Başlayın:
+## Buradan Başlayın
 
 ![start](/uploads/athletes-black-and-white-black-and-white-34514.jpg "start")
 
