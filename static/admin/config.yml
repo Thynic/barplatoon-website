@@ -1,0 +1,69 @@
+backend:
+  name: git-gateway
+  branch: master
+
+
+media_folder: "static/uploads"
+public_folder: "uploads"
+
+#media_library:
+  #name: uploadcare
+  #config:
+    #publicKey: demopublickey
+
+  #site_url: https://barplatoon.com
+
+  #slug:
+  #encoding: "unicode"
+  #clean_accents: false
+  #sanitize_replacement: "-"
+
+collections:
+  - name: "Antrenman Postu"
+    label: "Antrenman" # Used in the UI
+    folder: "content/post/antrenman" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list", required: true}
+      - {label: Author, name: author}
+      - {label: Author Image, name: authorAvatar, widget: image}
+      - {label: Author Description, name: authorDescription}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}  
+  - name: "Beslenme Postu"
+    label: "Beslenme" # Used in the UI
+    folder: "content/post/beslenme" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list", required: true}
+      - {label: Author, name: author}
+      - {label: Author Image, name: authorAvatar, widget: image}
+      - {label: Author Description, name: authorDescription}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}  
+  - name: "Zihinsel Post"
+    label: "Zihinsel" # Used in the UI
+    folder: "content/post/zihinsel" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Tags", name: "tags", widget: "list", required: true}
+      - {label: Author, name: author}
+      - {label: Author Image, name: authorAvatar, widget: image}
+      - {label: Author Description, name: authorDescription}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: "Body", name: "body", widget: "markdown"}  

@@ -1,0 +1,72 @@
+baseurl         = "https://www.barplatoon.com/"
+theme           = "casper-two"
+languageCode    = "tr-TR"
+#disqusShortname = "barplatoon"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Bar Platoon"
+  subtitle    = ""
+
+  cover       = "uploads/winter-fog.jpg"
+  description = "Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!"
+  metaDescription = "Mental ve fiziksel güç, antrenman ve beslenme rehberleri, acemi birliği basitliğinde anlatıyoruz!" 
+  googleAnalytics = "UA-147643379-1"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "thynicmare"
+  fbName = "justez"
+  githubName = "thynic/barplatoon-website"
+
+  logo = "uploads/barplatoonshielded.png"
+  orgName = "Bar Platoon"
+  orgWebsite = "https://www.barplatoon.com"
+  orgDescription = ""
+
+  author = "Melih Karakaya"
+  authorAvatar = "uploads/photo_2019-08-08_21-07-23.jpg"
+  authorLocation = "TR"
+  authorWebsite = "https://www.instagram.com/thynicbutstronger"
+  authorDescription = "@thynicbutstronger"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Ana Sayfa"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Başlangıç"
+  url = "/start/"
+  weight = 150
+
+[[menu.main]]
+  name = "Etiketler"
+  url = "/tags/"
+  weight = 145
+
+[[menu.main]]
+  name = "Antrenman"
+  url = "/tags/antrenman/"
+  weight = 110
+
+[[menu.main]]
+  name = "Beslenme"
+  url = "/tags/beslenme/"
+  weight = 105
+
+[[menu.main]]
+  name = "Zihinsel"
+  url = "/tags/zihinsel/"
+  weight = 103
+
+
