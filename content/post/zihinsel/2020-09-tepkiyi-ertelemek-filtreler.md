@@ -30,7 +30,7 @@ Tepkiyi biraz daha ertelediğimizde ise denkleme bir irdeleme filtresi daha ekle
 *(2) + Görev bilinci ---> Son fikir*\
 *\---> Son fikrin izlenimi (3) ---> Tepki önerisi*
 
-Diyelim ki son fikrin izlenimi ‘harekete geçilmeli’ olarak çıktı ve hala bir şüphe mevcut, bir karasızlık durumu var. Belki de gözümüze ihtimalleri değiştirebilecek başka bir faktör çarptı ve riskleri ve yapılabilirliği tekrar hesaplamamız gerekti. Bu durumda aynı ilk izlenimde olduğu gibi son fikrin izlenimi de irdelenebilir, sonuçta ikisi de bir ‘izlenim’dir. Mantığın yardımıyla irdeleme işlemi yapılarak döngü tekrar eder, karar verme süresi uzar. 
+Diyelim ki son fikrin izlenimi ‘harekete geçilmeli’ olarak çıktı ve hala bir şüphe mevcut, bir karasızlık durumu var. Belki de gözümüze ihtimalleri değiştirebilecek başka bir faktör çarptı ve riskleri ve yapılabilirliği tekrar hesaplamamız gerekti. Bu durumda aynı ilk izlenimde olduğu gibi son fikrin izlenimi de irdelenebilir, sonuçta ikisi de bir **izlenim**dir. Mantığın yardımıyla irdeleme işlemi yapılarak döngü tekrar eder, karar verme süresi uzar. 
 
 *(3) + Mantık ---> döngü*
 
@@ -56,4 +56,4 @@ Bu sürece küçük bir örnek:
 **\---> Son fikrin izlenimi (3) ---> Tepki önerisi ---> Tepki**\
 *\---> ilerideki amaçlarımı düşününce daha iyi hissettim ---> o yüzden ertelemeden şimdi çalışmalıyım ---> işe başlanır*
 
-Bu basamaklardaki filtreleri güçlendirmek, karar verme mekanizmasını da güçlendirir. Muhakeme gücü ve kendini tanımak gibi beceriler, hem bize daha yararlı, hem de kişiliğimize daha uygun kararlar vermemizi sağlar, bizi tutarlı yapar. Zamanla görevimizin farkına varırız ve bu amaca uygun olan kararı seçmeye her seferinde daha fazla yaklaşırız. Gerçekleşme ihtimali %1 bile olsa amacımızı ve anlık görevimizi bildiğimizden buna imkansız demeyiz, deneriz!
+Bu basamaklarda rol oynayan filtreleri güçlendirmek, karar verme mekanizmasını da güçlendirir. **Muhakeme gücü** ve **amacının farkında olmak** gibi özellikler, hem bize daha yararlı, hem de kişiliğimize daha uygun kararlar vermemizi sağlar, bizi tutarlı yapar. Zamanla görevimizin farkına varırız ve bu amaca uygun olan kararı seçmeye her seferinde daha fazla yaklaşırız. Gerçekleşme ihtimali %1 bile olsa amacımızı ve anlık görevimizi bildiğimizden buna imkansız demeyiz, deneriz!
