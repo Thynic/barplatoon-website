@@ -7,6 +7,7 @@ tags:
 author: Melih Karakaya
 authorAvatar: uploads/photo_2019-08-08_21-07-23.jpg
 authorDescription: "@thynicbutstronger"
+image: uploads/layer-170971_1920.jpg
 type: post
 ---
 Bir olayın saf, tek bir yönü olmadığından, o olayı gören tek bir çerçeve de yoktur. Nereden bakarsak o çerçevenin efsununa göre tepkimiz de değişir.
