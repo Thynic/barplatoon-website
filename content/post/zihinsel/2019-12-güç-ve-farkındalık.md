@@ -8,7 +8,7 @@ tags:
   - odak
 author: Melih Karakaya
 authorAvatar: /uploads/photo_2019-08-08_21-07-23.jpg
-authorDescription: '@thynicbutstronger'
+authorDescription: "@thynicbutstronger"
 image: /uploads/fantasy-2824304_1280.jpg
 type: post
 ---
@@ -30,7 +30,7 @@ Dış farkındalık eksikliği oluşturan sorunları bildiğimize göre atılmas
 
 İçinde bulunacağımız zorluklar her zaman soğuk hava gibi normal şartlarda farkedilmesi çok kolay olan şeyler olmayacak. Belki odağı saptıran etmenler çok fazla olacak, belki de bilgi eksikliğimizden dolayı ‘doğru’ olan bilgiyi fark edemeyeceğiz. Dış dünyamızı fark edebilmek için gereken bilgiyi yine dışarıdan temin edebiliriz, biraz kitap, biraz internet. Fakat iç dünyamızda kopan fırtınaları fark edebilmek ve bunların sebeplerini/çözümlerini bulabilmek için gereken bilgi dışarıda bulunmaz. Burada suya biraz daha dalarak güçsüzlüğün daha derindeki sebebine iniyoruz: iç farkındalık.
 
-Odağı saptıran etmenleri ‘dış farkındalık’ yardımı ile bulabildiyseniz, medyanın, bunların baronu olduğunu anlayabilmişsinizdir; anlayamadıysanız da sorun yok, zaten buradaki amacımız size bu yeteneği kazandırmak. Medya’nın alt katmanlarına inersek karşımıza baronun sağ kolu çıkıyor: sosyal medya. Bu sağ kol, hem baronun çalışma prensibini taklit ederek büyük platformların dışarıdan odak saptırmasına olanak verir, hem de kişiye hızlı onay verdiği için, beyninin kişiye, durum ne olursa olsun, “sorun yok, iyi durumdasın!” sahte mesajını vererek kişinin iç dünyasını görmesini sağlayan iç farkındalığına zarar verir. Bunun sonucunda kişi, içinde dönen olayları fark edemez ve sorunları sorun olarak göremez, çünkü programlanmış beyni sorun olmadığını söylüyor. Aslında kendisine odaklanıp çok daha fazla güçlenmesi gereken kişinin odağı, sosyal medya etkileşimleriyle kirlenirse kendisini başarılı sanar, sahte bir şekilde. Çünkü odağı saptırılmıştır ve kişiliğinde var olan eksiklikleri göremez, akabinde gideremez. Burada yapılması gereken, içe dönmek ve zihinle baş başa kalmaktır; ve bu sağ kol da, manipüle edilerek, gelişime katkı sağlaması için kullanılmalıdır. Sosyal medya bir güçtür, ve gücü kullanmayı bilenler daha da güçlenirler.
+Odağı saptıran etmenleri ‘dış farkındalık’ yardımı ile bulabildiyseniz, sosyal medyanın, bunların kralı olduğunu anlayabilmişsinizdir; anlayamadıysanız da sorun yok, zaten buradaki amacımız size bu yeteneği kazandırmak. Bu kral, hem büyük platformların dışarıdan odak saptırmasına olanak verir, hem de kişiye hızlı onay verdiği için, beyninin kişiye, durum ne olursa olsun, “sorun yok, iyi durumdasın!” sahte mesajını vererek kişinin iç dünyasını görmesini sağlayan iç farkındalığına zarar verir. Bunun sonucunda kişi, içinde dönen olayları fark edemez ve sorunları sorun olarak göremez, çünkü programlanmış beyni sorun olmadığını söylüyor. Aslında kendisine odaklanıp çok daha fazla güçlenmesi gereken kişinin odağı, sosyal medya etkileşimleriyle kirlenirse kendisini başarılı sanar, sahte bir şekilde. Çünkü odağı saptırılmıştır ve kişiliğinde var olan eksiklikleri göremez, akabinde gideremez. Burada yapılması gereken, içe dönmek ve zihinle baş başa kalmaktır; ve bu kral da, manipüle edilerek, gelişime katkı sağlaması için kullanılmalıdır. Sosyal medya bir güçtür, ve gücü kullanmayı bilenler daha da güçlenirler.
 
 ![platon](/uploads/sketch-1577613646197.png "platon")
 
